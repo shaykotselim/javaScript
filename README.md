@@ -1,6 +1,6 @@
 ## It's Me Shaykto Selim
 
-# <I am Solely Responsible For My Failure And Success/>
+# I am Solely Responsible For My Failure And Success.
 
 # This file Represents JvaScript.........
 
