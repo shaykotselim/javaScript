@@ -5,4 +5,4 @@
 # This file Represents JvaScript.........
 
 ## Overview:
-### Day 01: Today's Already commit Variable, String & Boolean 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shaykotselim)  
